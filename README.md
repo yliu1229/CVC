@@ -42,7 +42,7 @@ If you like our work please cite it as follows:
 	volume = {154},
 	pages = {108710},
 	year = {2024},
-  url   = {https://doi.org/10.1016/j.patcog.2024.110631}
+	url   = {https://doi.org/10.1016/j.patcog.2024.110631}
 }
 ```
 
