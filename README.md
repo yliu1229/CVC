@@ -5,6 +5,7 @@ This is the PyTorch implementation of Contrastive Visual Clustering (CVC).
 It provides a baseline self-supervised learning framework integrated with CVC for image and video representation learning respectively.
 
 For image, training and evaluating are using ./Train/main_2d.py and ./Evaluate/test_2d.py; 
+
 For video, training and evaluating are using ./Train/main_3d.py and ./Evaluate/test_3d.py.
 
 ### Prepare
